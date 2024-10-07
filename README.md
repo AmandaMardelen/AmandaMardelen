@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨  <br>📚 Analises e Desenvolvimento de sistemas<br>🎯  Foco em Desenvolvimento Frontend e estou comecando a estudar  python<br>🎲 Sempre buscando conhecimento</p>
+<p align="left">✨  <br>📚 Analises e Desenvolvimento de sistemas<br>🎯  Foco em Desenvolvimento Frontend e estou comecando a estudar data scienc<br>🎲 Sempre buscando conhecimento</p>
 
 ###
 
